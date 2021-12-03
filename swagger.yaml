@@ -14,9 +14,9 @@ components:
         - title
         - author
       properties:
-        id:
+        bookId:
           type: integer
-          description: The auto-generated id of the book
+          description: The id of the book
         title:
           type: string
           description: The book title
